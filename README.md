@@ -27,4 +27,5 @@ POST /emprestimos
 DELETE /emprestimos/:id
 
 ## Repositório GitHub
-Link do repositório
+[Link do repositório
+](https://github.com/KaliTonny/biblioteca-api)
